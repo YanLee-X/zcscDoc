@@ -1,6 +1,6 @@
 ## You See See You!
 
-> ![image...](http://www.17qq.com/img_biaoqing/12619075.jpeg)
+> ![image...](/img/yousee.jpg)
 
 :smirk:`you can you up ,no can no bibi!`
 
