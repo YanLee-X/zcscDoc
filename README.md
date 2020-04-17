@@ -2,6 +2,6 @@
 
 > 项目文档
 
-~~~js
-console.log("xxxxxxxx");
+~~~html
+Hello Word!!!
 ~~~
