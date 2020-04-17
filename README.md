@@ -1,4 +1,4 @@
-# 首页
+## You Know?
 
 > ![error](/favicon.ico)
 
@@ -14,15 +14,14 @@
 
 ### 安装
 
-全局安装：
-
-npm i docsify-cli -g
++ 全局安装
+> npm i docsify-cli -g
 
 ### 创建
 
-docsify init ./docs
+> docsify init ./docs
 
 
 ### 启动
 
-docsify serve ./docs -p 80 --open
+> docsify serve ./docs -p 80 --open
