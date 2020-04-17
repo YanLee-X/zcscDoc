@@ -72,4 +72,3 @@
         })
     }].concat(window.$docsify.plugins || [])
 }();
-//# sourceMappingURL=docsify-copy-code.min.js.map
