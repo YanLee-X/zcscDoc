@@ -7,7 +7,7 @@
 
 ## docsify
 
-官网： https://docsify.js.org/#/  
+官网：https://docsify.js.org/#/?id=docsify  
 源码：https://github.com/docsifyjs/docsify  
 
 > 依赖 node.js 环境
