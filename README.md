@@ -2,7 +2,7 @@
 
 > ![image...](/img/yousee.jpg)
 
-:smirk:`you can you up ,no can no bibi!`
+:smirk::smirk::smirk:
 
 
 ## docsify
