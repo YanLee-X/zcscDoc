@@ -1,6 +1,6 @@
 ## You See See You!
 
-> ![image...](/img/yousee.jpg)
+> ![image...](img/yousee.jpg)
 
 ## docsify
 
