@@ -2,9 +2,6 @@
 
 > ![image...](/img/yousee.jpg)
 
-:smirk::smirk::smirk:
-
-
 ## docsify
 
 官网：https://docsify.js.org/#/?id=docsify  
